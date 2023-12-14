@@ -1,0 +1,19 @@
+/* 
+bootstrap class override
+
+.carousel-control-prev-icon{
+
+    background-color: yellow;
+ 
+
+}
+
+.carousel-control-next-icon{
+
+    background-color: yellow;
+} */
+
+.slider-button-color{
+
+    background-color: yellowgreen;
+}
